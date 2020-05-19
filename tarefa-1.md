@@ -18,28 +18,28 @@
 
 A pesar de que existen mucho más tipos de datos SQL, en estos apuntes se limitarán a los siguientes:
 
--**Numéricos**:
+➤**Numéricos**:
   - INTEGER 
   - DECIMAL 
   - FLOAT
   - REAL
 
--**Texto**:
+➤**Texto**:
   - CHAR 	
   - VARCHAR 	
   - STRING
 
--**Booleanos**:
+➤**Booleanos**:
   - TRUE	
   - FALSE	
   - NULL
   
--**Fechas**:
+➤**Fechas**:
   - DATE (DD-MM-YYYY)
   - TIME (H, MIN, zona horaria)
   - TIMESTAMP (DATE+TIME)
 
--**Otros**:
+➤**Otros**:
   - CIDR (Classless Inter-Domain Routing, identificar direcciones IP con el formato x.x.x.x/x Ej 192.168.0.1/24)
   - MONEY (identificar cantidades monetarias)
   - UUID (Universally Unique IDentifier)
